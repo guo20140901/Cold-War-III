@@ -1,21 +1,15 @@
-# Security Policy
+# 冷战·生光 正式版 
 
-## Supported Versions
+## 版本支持
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+目前只维护最新版，不支持过老版本
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| 1.0.8   | :white_check_mark: |
+| < 1.0.8   | :x:                |
 
-## Reporting a Vulnerability
+## 漏洞报告
+可以前往 洛谷 私信 guo20140901报告漏洞，目前 < 1.0.8 版本的不予受理。
 
-Use this section to tell people how to report a vulnerability.
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
